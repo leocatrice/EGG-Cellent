@@ -1,0 +1,22 @@
+.card {
+
+	padding: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 5px;
+	line-height: 13px;
+	
+
+
+}
+
+.card img {
+
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	margin: 0auto;
+
+
+}
