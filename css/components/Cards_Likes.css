@@ -1,0 +1,14 @@
+.card_likes img{ width:60px;
+				height: 60px;
+				border-radius: 37px }
+
+
+.card_likes h7
+{ color:white;
+	font-size:20px;
+	text-decoration: underline;
+	text-decoration-color: orange
+}
+
+.card_likes p{ color: white; 
+margin-left: 60px}
